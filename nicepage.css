@@ -8905,12 +8905,9 @@ ul.u-text li:last-child {
 .u-image,
 .u-background-effect-image,
 .u-video-poster {
-  object-fit: cover;
-  display: block;
-  vertical-align: middle;
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
 }
 img.u-image,
 .u-video-poster {
