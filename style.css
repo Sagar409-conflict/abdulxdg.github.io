@@ -7,8 +7,7 @@
 .banner{
 	width: 100%;
     min-height:100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bg.jpg);
-
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Images/bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -102,7 +101,8 @@
 }
 .auto-input{
 	font-family: 'arvo',sans-serif;
-	text-decoration: none;}
+	text-decoration: none;
+	font-size: +}
 .user-img{
     width: 540px;
     position: absolute;
